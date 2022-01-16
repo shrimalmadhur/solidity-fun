@@ -1,0 +1,24 @@
+{
+  "name": "squaresvg",
+  "version": "1.0.0",
+  "description": "square svg random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhur Shrimal",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@nomiclabs/hardhat-etherscan": "^3.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.4.2",
+    "@openzeppelin/hardhat-upgrades": "^1.13.0",
+    "base64-sol": "^1.1.0",
+    "chai": "^4.3.4",
+    "dotenv": "^12.0.3",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.2"
+  }
+}
